@@ -8,6 +8,11 @@ import android.view.Menu;
 import android.view.MenuItem;
 import android.widget.Toast;
 
+/**
+ * 
+ * @author juliux
+ *
+ */
 public class BiblicaActivity extends Activity {
 
 	@Override
