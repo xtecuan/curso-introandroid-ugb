@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Biblica</string>
+    <string name="action_settings">Settings</string>
+    <string name="versiculo">Pero Jesús DIJO: Dejad a los Niños Venir a mi, y no se lo impidáis; porqué de los cuentos es el reino de los cielos.</string>
+    <string name="capitulo">Mateo 19:14</string>
+    <string name="Salir">Salir</string>
+    <string name="Versiculo">Versiculo</string>
+
+</resources>
